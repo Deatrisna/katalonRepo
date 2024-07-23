@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chooseMenu</name>
+   <tag></tag>
+   <elementGuidId>0ca24e86-59d8-440b-9182-0c619013793f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//kt-header/div[@id='kt_header']/div[1]/kt-menu-horizontal[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

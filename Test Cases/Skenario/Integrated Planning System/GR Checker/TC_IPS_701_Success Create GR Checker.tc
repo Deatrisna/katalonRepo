@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Succes Create GR Checker until Upload file bulk</description>
+   <name>TC_IPS_701_Success Create GR Checker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0d70c93-2126-467f-8623-3d9849d3add2</testCaseGuid>
+</TestCaseEntity>

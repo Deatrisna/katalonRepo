@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>[Positive] Monitoring Funnel/Cluster - Export Data</description>
+   <name>TC_LMS_405_Monitoring Funnel Cluster - Export Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b67338ad-6474-465a-aa40-5b3905992e57</testCaseGuid>
+</TestCaseEntity>

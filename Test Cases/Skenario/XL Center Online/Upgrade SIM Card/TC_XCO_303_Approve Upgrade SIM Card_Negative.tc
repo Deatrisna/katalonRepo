@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_XCO_303_Approve Upgrade SIM Card_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5e11075-1e6e-476d-a621-0a7e547a11a1</testCaseGuid>
+</TestCaseEntity>

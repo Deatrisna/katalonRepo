@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Berhasil Update data Informasi Tower</description>
+   <name>TC_LMS_107_Succes Update Tower</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af12ba85-5b2e-43a5-b5c2-a635d8752f97</testCaseGuid>
+</TestCaseEntity>

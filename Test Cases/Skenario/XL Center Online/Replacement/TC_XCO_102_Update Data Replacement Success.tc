@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>[Positive] Update Data Replacement</description>
+   <name>TC_XCO_102_Update Data Replacement Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec0cb44e-7d70-4cdd-9d8f-23cd411e8fde</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can't Submit Create BK New Bulding</description>
+   <name>TC_LMS_501_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0e98c20-9c16-4b29-8482-9c753d469c72</testCaseGuid>
+</TestCaseEntity>

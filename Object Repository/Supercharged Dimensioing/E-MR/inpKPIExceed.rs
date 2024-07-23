@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inpKPIExceed</name>
+   <tag></tag>
+   <elementGuidId>bcc0961b-59e2-409d-88f7-586136146f8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/app-root[1]/app-pages[1]/mat-sidenav-container[1]/mat-sidenav-content[1]/div[1]/app-e-mr-sow-create[1]/app-e-mr-sow-create-form[1]/form[1]/div[1]/div[2]/div[8]/div[1]/div[1]/div[6]/textarea[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

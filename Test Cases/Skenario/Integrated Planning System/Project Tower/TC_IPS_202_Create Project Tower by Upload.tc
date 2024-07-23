@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Project Tower by Upload</description>
+   <name>TC_IPS_202_Create Project Tower by Upload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e84ae9a-08db-432a-a9ed-b0659f692da9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Website Learning Management System</description>
+      <initValue>'https://www.sit.leasemgt.xl.co.id/'</initValue>
+      <name>urlLMS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Website Integrated Planning System</description>
+      <initValue>'https://www.staging.ips.xl.co.id/#/secure/dashboard'</initValue>
+      <name>urlIPS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Website Omnichannel</description>
+      <initValue>'https://www.axis.co.id/'</initValue>
+      <name>urlOMNI</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Website Supercharged Dimensioning Modul E-MR</description>
+      <initValue>'https://www.staging.newxlife.xl.co.id/en/auth/login'</initValue>
+      <name>urlSDEMR</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

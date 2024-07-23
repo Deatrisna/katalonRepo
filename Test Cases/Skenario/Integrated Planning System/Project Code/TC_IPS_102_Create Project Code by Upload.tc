@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Project Code by Upload</description>
+   <name>TC_IPS_102_Create Project Code by Upload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8080108-bf88-40bc-ba4c-18b010fae78c</testCaseGuid>
+</TestCaseEntity>

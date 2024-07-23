@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tidak berhasil melakukan Update, Mandatory Field dikosongkan.</description>
+   <name>TC_LMS_105_Update Tower with Null Mandatory Field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf5b4dc6-4e82-4d66-9b9b-135c357fa614</testCaseGuid>
+</TestCaseEntity>

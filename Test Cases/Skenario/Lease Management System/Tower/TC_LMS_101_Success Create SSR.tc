@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Berhasil Membuat Data SSR Tower</description>
+   <name>TC_LMS_101_Success Create SSR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aea1f234-6420-4e09-83bc-ccf2bf52e6e8</testCaseGuid>
+</TestCaseEntity>

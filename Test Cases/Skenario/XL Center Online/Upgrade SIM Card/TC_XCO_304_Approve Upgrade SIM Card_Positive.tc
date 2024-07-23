@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_XCO_304_Approve Upgrade SIM Card_Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f1a1d13-5101-4526-8361-3ce7366eda64</testCaseGuid>
+</TestCaseEntity>

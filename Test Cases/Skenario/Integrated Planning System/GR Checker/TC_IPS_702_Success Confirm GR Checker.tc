@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Confirm GR Checker Success</description>
+   <name>TC_IPS_702_Success Confirm GR Checker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afb218f6-09dc-463e-baa6-5542d4f93801</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Project Tower by Form</description>
+   <name>TC_IPS_201_Create Project Tower by Form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da5d240c-2baa-4e6c-bad9-14c23517e487</testCaseGuid>
+</TestCaseEntity>

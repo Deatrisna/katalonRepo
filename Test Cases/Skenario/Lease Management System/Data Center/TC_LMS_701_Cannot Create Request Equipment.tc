@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>[Negative] Create Request Equipment - Not fill all field</description>
+   <name>TC_LMS_701_Cannot Create Request Equipment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0cb86fd-3865-40f9-b156-ce32ecc2435a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Success Submit Create BAK New Building</description>
+   <name>TC_LMS_502_Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a96e3c4e-6055-4ebe-80a5-fec7cfa91f19</testCaseGuid>
+</TestCaseEntity>

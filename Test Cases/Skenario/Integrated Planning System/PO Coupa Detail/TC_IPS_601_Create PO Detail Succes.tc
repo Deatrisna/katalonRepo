@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Success Created PO with Upload file bulk</description>
+   <name>TC_IPS_601_Create PO Detail Succes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>652cf381-0b0e-4bb9-984f-9549d5787aef</testCaseGuid>
+</TestCaseEntity>

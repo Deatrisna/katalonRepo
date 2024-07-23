@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can't Submit Create ECRF</description>
+   <name>TC_LMS_201_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97df4572-00c6-4c97-963f-8334507a40ba</testCaseGuid>
+</TestCaseEntity>

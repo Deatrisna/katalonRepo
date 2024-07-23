@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>[Negative] Create Funnel/Cluster Without Fill All Mandatory Field</description>
+   <name>TC_LMS_401_Create Funnel Cluster Without Fill All Mandatory Field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f6eea0e-2caf-40e0-9efa-8d44be7a3d70</testCaseGuid>
+</TestCaseEntity>

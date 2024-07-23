@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnDropdown</name>
+   <tag></tag>
+   <elementGuidId>b16eb9f2-98ec-4e1d-b2c2-e27b15d33f7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/kt-base[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/kt-review-payment-tower-list[1]/div[1]/div[1]/div[2]/kt-review-payment-tower-filter[1]/form[1]/div[1]/div[4]/mat-select[1]/div[1]/div[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

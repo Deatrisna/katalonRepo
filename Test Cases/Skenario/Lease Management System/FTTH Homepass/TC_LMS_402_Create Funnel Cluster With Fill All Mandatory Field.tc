@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>[Positive] Create Funnel/Cluster With Fill All Mandatory Field</description>
+   <name>TC_LMS_402_Create Funnel Cluster With Fill All Mandatory Field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56391885-539a-4614-81b2-cd94788d0ccc</testCaseGuid>
+</TestCaseEntity>

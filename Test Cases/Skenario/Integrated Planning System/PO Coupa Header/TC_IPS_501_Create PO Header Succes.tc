@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Success Create PO Header with Upload File</description>
+   <name>TC_IPS_501_Create PO Header Succes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93101662-1cc4-4036-9ab7-71a5911ee2d7</testCaseGuid>
+</TestCaseEntity>

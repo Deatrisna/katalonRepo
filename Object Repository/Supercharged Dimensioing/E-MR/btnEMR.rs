@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnEMR</name>
+   <tag></tag>
+   <elementGuidId>3ca89433-9735-4917-9db1-8f729b1f688c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/app-root[1]/app-pages[1]/mat-sidenav-container[1]/mat-sidenav[1]/div[1]/app-sidebar[1]/div[1]/div[2]/nav[1]/div[4]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

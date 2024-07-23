@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_XCO_406_Purchase Packet With No Cost</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5381998-46df-4aba-84f7-a4e93dccf412</testCaseGuid>
+</TestCaseEntity>

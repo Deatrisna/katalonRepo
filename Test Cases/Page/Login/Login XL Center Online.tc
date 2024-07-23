@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login XL Center Online</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f336ba40-44e4-4bbc-962f-0f0cd0878692</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9fca35bb-e2fa-4203-82d9-ed52a61bd2d0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aad856a2-f449-439d-b462-26f4ad45e6d5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'xl.test2@xl.co.id'</defaultValue>
+      <description></description>
+      <id>9fca35bb-e2fa-4203-82d9-ed52a61bd2d0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'2yd739u67HQE'</defaultValue>
+      <description></description>
+      <id>aad856a2-f449-439d-b462-26f4ad45e6d5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

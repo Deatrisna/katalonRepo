@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>[Positive] Create Request Equipment - Fill All Field</description>
+   <name>TC_LMS_702_Success Create Request Equipment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e68287b-0e7f-4abf-87fc-9bf142060180</testCaseGuid>
+</TestCaseEntity>
